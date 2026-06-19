@@ -1,0 +1,14 @@
+{
+  "site_title": "欧美高分视频-高分视频片单-精选内容持续更新",
+  "logo": "欧美高分视频",
+  "movie_count": 2000,
+  "detail_pages": 2000,
+  "category_pages": 10,
+  "created": "2026-05-25",
+  "source_zip": "project-bolt-sb1-s3enavpt - 副本.zip",
+  "notes": [
+    "All visible movie content is written directly in HTML pages.",
+    "Hero images and cards reference top-level 1.jpg through 150.jpg cyclically.",
+    "HLS player initializes on click using m3u8 URLs extracted from uploaded original JS."
+  ]
+}
